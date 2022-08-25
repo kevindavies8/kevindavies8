@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Full Stack Mobile Developer | React Native, React, Node, Firebase**
 
-- 📫 How to reach me **kevindavies8888@gmail.com**
-
 ### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kevindavies8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevindavies8) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kevindavies8) 
 
