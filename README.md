@@ -1,4 +1,4 @@
-#### Hi 👋, I'm Kenvin Davies 
+#### Hi 👋, I'm Kevin Davies
 ##### **Full Stack Mobile Developer | React Native, React, Node, Firebase**
 [![](https://visitcount.itsvg.in/api?id=kevindavies8&icon=0&color=0)](https://visitcount.itsvg.in)
 
